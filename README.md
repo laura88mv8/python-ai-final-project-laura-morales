@@ -94,6 +94,7 @@ This project is a command-line Music Management Application developed as part of
 ---
 
 🚀 How to Run the Project
+
 ✅ Prerequisites
 Make sure you have Python 3.x installed.
 
